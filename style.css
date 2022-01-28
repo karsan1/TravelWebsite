@@ -1,0 +1,30 @@
+body{
+  background-color: #3498DB;
+  margin-top: 0px;
+}
+
+#box{
+  background-color: white;
+  border: solid black;
+  width: 700px;
+  margin: 0 auto;
+  padding: 0px 10px;
+}
+
+#h1{
+  text-align: center;
+}
+
+#h2{
+  text-align: left;
+  color: red;
+}
+
+#h3{
+  text-align: center;
+  color: firebrick;
+}
+
+p{
+  text-align:left;
+}
